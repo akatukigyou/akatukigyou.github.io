@@ -1,0 +1,607 @@
+﻿{
+    "item": {
+        "name": "Project"
+    },
+    "children": [{
+        "item": {
+            "name": "Runtime"
+        },
+        "children": [{
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/runtime.js",
+                "size": 572600,
+                "compressed size": 117990
+            }
+        }]
+    }, {
+        "item": {
+            "name": "Assets"
+        },
+        "children": [{
+            "item": {
+                "name": "JavaScript",
+                "size": 16006
+            }
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Bk.png",
+                "object": { "$TypeId": 10, "Guid": "3a9ba4164124742ea88dc8cef0e963d1", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Bk.png",
+                    "size": 231240,
+                    "compressed size": 175126,
+                    "object": { "$TypeId": 10, "Guid": "3a9ba4164124742ea88dc8cef0e963d1", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_base.png",
+                "object": { "$TypeId": 10, "Guid": "9b67a5693620449d0afd521be713d1fc", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_base.png",
+                    "size": 150096,
+                    "compressed size": 113649,
+                    "object": { "$TypeId": 10, "Guid": "9b67a5693620449d0afd521be713d1fc", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon01.png",
+                "object": { "$TypeId": 10, "Guid": "6a3a80895afa342fba1386aa623a6ff2", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon01.png",
+                    "size": 275448,
+                    "compressed size": 208138,
+                    "object": { "$TypeId": 10, "Guid": "6a3a80895afa342fba1386aa623a6ff2", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon00.png",
+                "object": { "$TypeId": 10, "Guid": "8825d707305a84daab699d23fa75f83d", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon00.png",
+                    "size": 273816,
+                    "compressed size": 206306,
+                    "object": { "$TypeId": 10, "Guid": "8825d707305a84daab699d23fa75f83d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon02.png",
+                "object": { "$TypeId": 10, "Guid": "7c2fea21d8fc84897b9a8d5611202cfb", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon02.png",
+                    "size": 277928,
+                    "compressed size": 209518,
+                    "object": { "$TypeId": 10, "Guid": "7c2fea21d8fc84897b9a8d5611202cfb", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon03.png",
+                "object": { "$TypeId": 10, "Guid": "1a69c4d628ec1461492514a78dcd2042", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon03.png",
+                    "size": 279564,
+                    "compressed size": 211248,
+                    "object": { "$TypeId": 10, "Guid": "1a69c4d628ec1461492514a78dcd2042", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon04.png",
+                "object": { "$TypeId": 10, "Guid": "db373b70878c94f8592eb698d4c02945", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon04.png",
+                    "size": 281652,
+                    "compressed size": 212451,
+                    "object": { "$TypeId": 10, "Guid": "db373b70878c94f8592eb698d4c02945", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon05.png",
+                "object": { "$TypeId": 10, "Guid": "5ba7c03ce8142488ba71b4f4e6173e48", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon05.png",
+                    "size": 284200,
+                    "compressed size": 214410,
+                    "object": { "$TypeId": 10, "Guid": "5ba7c03ce8142488ba71b4f4e6173e48", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon06.png",
+                "object": { "$TypeId": 10, "Guid": "4bcb07fbe93ea408094792a8ddea4e6d", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon06.png",
+                    "size": 283628,
+                    "compressed size": 214179,
+                    "object": { "$TypeId": 10, "Guid": "4bcb07fbe93ea408094792a8ddea4e6d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon07.png",
+                "object": { "$TypeId": 10, "Guid": "04ac8ca64d720413d9fb0e0c9af91f91", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon07.png",
+                    "size": 280088,
+                    "compressed size": 211392,
+                    "object": { "$TypeId": 10, "Guid": "04ac8ca64d720413d9fb0e0c9af91f91", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon08.png",
+                "object": { "$TypeId": 10, "Guid": "8e610c1ebbfc8409ebf551b32fdf7537", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon08.png",
+                    "size": 280060,
+                    "compressed size": 211188,
+                    "object": { "$TypeId": 10, "Guid": "8e610c1ebbfc8409ebf551b32fdf7537", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon09.png",
+                "object": { "$TypeId": 10, "Guid": "2b014a35df19b4f7c89b4d5e6cbd5a0c", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon09.png",
+                    "size": 281156,
+                    "compressed size": 212234,
+                    "object": { "$TypeId": 10, "Guid": "2b014a35df19b4f7c89b4d5e6cbd5a0c", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon10.png",
+                "object": { "$TypeId": 10, "Guid": "160ce18508dc244f797b87e75be2a990", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon10.png",
+                    "size": 279616,
+                    "compressed size": 211029,
+                    "object": { "$TypeId": 10, "Guid": "160ce18508dc244f797b87e75be2a990", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon11.png",
+                "object": { "$TypeId": 10, "Guid": "8a7acaafc8edb4ba9a249d8672c176da", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon11.png",
+                    "size": 279644,
+                    "compressed size": 211033,
+                    "object": { "$TypeId": 10, "Guid": "8a7acaafc8edb4ba9a249d8672c176da", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon12.png",
+                "object": { "$TypeId": 10, "Guid": "39f78f543ef9045739a298669d575af5", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon12.png",
+                    "size": 277512,
+                    "compressed size": 209215,
+                    "object": { "$TypeId": 10, "Guid": "39f78f543ef9045739a298669d575af5", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Dragon Anim/Match_Dragon13.png",
+                "object": { "$TypeId": 10, "Guid": "01584f1bdd00641bcb85699b918c38ca", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Dragon13.png",
+                    "size": 276312,
+                    "compressed size": 208752,
+                    "object": { "$TypeId": 10, "Guid": "01584f1bdd00641bcb85699b918c38ca", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_life.png",
+                "object": { "$TypeId": 10, "Guid": "bf7c591a77a0544ec950cad576aae7e4", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_life.png",
+                    "size": 416,
+                    "compressed size": 347,
+                    "object": { "$TypeId": 10, "Guid": "bf7c591a77a0544ec950cad576aae7e4", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/blank.jpg",
+                "object": { "$TypeId": 10, "Guid": "65050f4fd724f35459b67ecdee15725f", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/blank.png",
+                    "size": 92,
+                    "compressed size": 99,
+                    "object": { "$TypeId": 10, "Guid": "65050f4fd724f35459b67ecdee15725f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Audio/music_cinematic_darkness_falls.mp3",
+                "object": { "$TypeId": 10, "Guid": "890dfd485cbfa47fcb5f3b07110132e0", "FileId": 8300000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/music_cinematic_darkness_falls.mp3",
+                    "size": 180096,
+                    "compressed size": 134566,
+                    "object": { "$TypeId": 10, "Guid": "890dfd485cbfa47fcb5f3b07110132e0", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Blue.png",
+                "object": { "$TypeId": 10, "Guid": "1a86bb2c2e89a414596e15d2248d639a", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Blue.png",
+                    "size": 28824,
+                    "compressed size": 21821,
+                    "object": { "$TypeId": 10, "Guid": "1a86bb2c2e89a414596e15d2248d639a", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Pink.png",
+                "object": { "$TypeId": 10, "Guid": "34a7c863ea93645a1bfcbccb08c15017", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Pink.png",
+                    "size": 44484,
+                    "compressed size": 33687,
+                    "object": { "$TypeId": 10, "Guid": "34a7c863ea93645a1bfcbccb08c15017", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Green.png",
+                "object": { "$TypeId": 10, "Guid": "a443afd7b7dbd4159bcf545e75396c30", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Green.png",
+                    "size": 38832,
+                    "compressed size": 29222,
+                    "object": { "$TypeId": 10, "Guid": "a443afd7b7dbd4159bcf545e75396c30", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_LTBlue.png",
+                "object": { "$TypeId": 10, "Guid": "971e3fe231e5946b8b2798e57946c920", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_LTBlue.png",
+                    "size": 63952,
+                    "compressed size": 48424,
+                    "object": { "$TypeId": 10, "Guid": "971e3fe231e5946b8b2798e57946c920", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Fire.png",
+                "object": { "$TypeId": 10, "Guid": "fa46fc8ae16604318aac9644e761e720", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Fire.png",
+                    "size": 12472,
+                    "compressed size": 9442,
+                    "object": { "$TypeId": 10, "Guid": "fa46fc8ae16604318aac9644e761e720", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Slash.png",
+                "object": { "$TypeId": 10, "Guid": "885eba52ccecc4487bca13ff07173c0a", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Slash.png",
+                    "size": 4236,
+                    "compressed size": 3231,
+                    "object": { "$TypeId": 10, "Guid": "885eba52ccecc4487bca13ff07173c0a", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "Assets/dragon-match/Textures/Match_Victory.png",
+                "object": { "$TypeId": 10, "Guid": "14226923f84e3452c9969e640e459c80", "FileId": 2800000, "Type": 3 }
+            },
+            "children": [{
+                "item": {
+                    "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/Assets/Match_Victory.png",
+                    "size": 50248,
+                    "compressed size": 36604,
+                    "object": { "$TypeId": 10, "Guid": "14226923f84e3452c9969e640e459c80", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }]
+    }, {
+        "item": {
+            "name": "Code"
+        },
+        "children": [{
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/entities.js",
+                "size": 14036,
+                "compressed size": 2724
+            },
+            "children": [{
+                "item": {
+                    "name": "Level_Base",
+                    "size": 8569,
+                    "compressed size": 1919
+                }
+            }, {
+                "item": {
+                    "name": "GemPrefab",
+                    "size": 1674,
+                    "compressed size": 601
+                }
+            }, {
+                "item": {
+                    "name": "ParticlePrefab",
+                    "size": 2014,
+                    "compressed size": 680
+                }
+            }, {
+                "item": {
+                    "name": "SlashPrefab",
+                    "size": 859,
+                    "compressed size": 373
+                }
+            }, {
+                "item": {
+                    "name": "VictoryGroup",
+                    "size": 834,
+                    "compressed size": 370
+                }
+            }]
+        }, {
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/bindings.js",
+                "size": 47597,
+                "compressed size": 4894
+            }
+        }, {
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/systems.js",
+                "size": 29271,
+                "compressed size": 4925
+            },
+            "children": [{
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/CellGraphSystem.txt",
+                    "size": 800,
+                    "compressed size": 384,
+                    "object": { "$TypeId": 10, "Guid": "cc567c82cbfcec34cb1b6ae0f863e0f5", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/GemDragSystem.js.txt",
+                    "size": 4837,
+                    "compressed size": 1098,
+                    "object": { "$TypeId": 10, "Guid": "f5d40d4eb7d428641a381b55f1e5d9f6", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/DestroyMatchSystem.js.txt",
+                    "size": 3909,
+                    "compressed size": 1100,
+                    "object": { "$TypeId": 10, "Guid": "507c8b04e8ea7644595159a4910eab7d", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/CellGraphNodeRegisterSystem.js.txt",
+                    "size": 1168,
+                    "compressed size": 483,
+                    "object": { "$TypeId": 10, "Guid": "fc6bdd43ed92cf147870a029020086f2", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/ParticleEmitterSystem.js.txt",
+                    "size": 1019,
+                    "compressed size": 419,
+                    "object": { "$TypeId": 10, "Guid": "2b758a92f4c0b4ea38ae63638b13f82f", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/SlashEffectSystem.js.txt",
+                    "size": 687,
+                    "compressed size": 333,
+                    "object": { "$TypeId": 10, "Guid": "fcf0d1598e05d4b25a16000df1c6faae", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/DragonSystem.js.txt",
+                    "size": 868,
+                    "compressed size": 407,
+                    "object": { "$TypeId": 10, "Guid": "0d52f0e3c3c874b3b9c4ee83da8db929", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenSequenceStartSystem.txt",
+                    "size": 1636,
+                    "compressed size": 535,
+                    "object": { "$TypeId": 10, "Guid": "015b1fdd7d6ef7646ac4de8b4a17fb9a", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenDelaySystem.txt",
+                    "size": 919,
+                    "compressed size": 373,
+                    "object": { "$TypeId": 10, "Guid": "b26ed51e4e531b741a2bdc3856abbd80", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenTimeSystem.txt",
+                    "size": 961,
+                    "compressed size": 386,
+                    "object": { "$TypeId": 10, "Guid": "dfec26fc84caf9e4688ef2445ccc8e9f", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenEaseSystem.txt",
+                    "size": 664,
+                    "compressed size": 310,
+                    "object": { "$TypeId": 10, "Guid": "0efa5ffbd0967a94691149b2ec8dec29", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenVector3System.txt",
+                    "size": 2257,
+                    "compressed size": 868,
+                    "object": { "$TypeId": 10, "Guid": "8f691acc44629c543ad05b42de04e09e", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenColorSystem.txt",
+                    "size": 2297,
+                    "compressed size": 874,
+                    "object": { "$TypeId": 10, "Guid": "0d51a049d702f22439fd89b21bf8e314", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenFloatSystem.txt",
+                    "size": 2405,
+                    "compressed size": 917,
+                    "object": { "$TypeId": 10, "Guid": "4ba0184fcc8f36c44a9434425560d834", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenLoopSystem.txt",
+                    "size": 1491,
+                    "compressed size": 534,
+                    "object": { "$TypeId": 10, "Guid": "71a9654911c571c4b8925565f2e436e6", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenSequenceEndSystem.txt",
+                    "size": 1718,
+                    "compressed size": 695,
+                    "object": { "$TypeId": 10, "Guid": "b9cef9039e8de7443b5c3214a2c12746", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenOnCompleteSystem.txt",
+                    "size": 900,
+                    "compressed size": 380,
+                    "object": { "$TypeId": 10, "Guid": "c02bae15572106142920d105994a49b9", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenDestroySystem.txt",
+                    "size": 639,
+                    "compressed size": 320,
+                    "object": { "$TypeId": 10, "Guid": "77a2281db24947747bb89d239fae5527", "FileId": 4900000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/code.js",
+                "size": 37636,
+                "compressed size": 7652
+            },
+            "children": [{
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/BoardService.js.txt",
+                    "size": 12508,
+                    "compressed size": 2576,
+                    "object": { "$TypeId": 10, "Guid": "7a80465e66fb23446b5baa25ba112440", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/GraphService.txt",
+                    "size": 4319,
+                    "compressed size": 1160,
+                    "object": { "$TypeId": 10, "Guid": "1960d037de36818449dcf8a63722f4cc", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Assets/dragon-match/JavaScript/DragonService.js.txt",
+                    "size": 835,
+                    "compressed size": 314,
+                    "object": { "$TypeId": 10, "Guid": "c7f1513c984574efeb690f6808a32503", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Flow/JavaScript/Service.txt",
+                    "size": 2340,
+                    "compressed size": 838,
+                    "object": { "$TypeId": 10, "Guid": "5f88ac1f58225104398ddba2f178a96e", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenService.txt",
+                    "size": 14023,
+                    "compressed size": 3025,
+                    "object": { "$TypeId": 10, "Guid": "675da9d892a48414099219017a2eb4c9", "FileId": 4900000, "Type": 3 }
+                }
+            }, {
+                "item": {
+                    "name": "Packages/com.unity.tiny.editor/Runtime/Modules/Tween/JavaScript/TweenEasing.txt",
+                    "size": 3515,
+                    "compressed size": 685,
+                    "object": { "$TypeId": 10, "Guid": "dedb052e8e6226b45a4f130044f06a01", "FileId": 4900000, "Type": 3 }
+                }
+            }]
+        }, {
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/main.js",
+                "size": 2636,
+                "compressed size": 825
+            }
+        }, {
+            "item": {
+                "name": "UTinyExport/UTiny.Demo.DragonMatch/HTML5/Development/bin/wsclient.js",
+                "size": 2314,
+                "compressed size": 945
+            }
+        }]
+    }]
+}
